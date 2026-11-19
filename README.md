@@ -944,6 +944,5 @@ LLM_CHAT_MODEL=gpt-4
 
 <div align="center">
 
-**如果觉得有用，请给个 ⭐ Star 支持一下！**
 
 </div>
